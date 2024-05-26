@@ -1,0 +1,43 @@
+[
+    {
+        "Info":
+            {
+                "Id": 3,
+                "Name": "Agumon",
+                "Type": 2,
+                "Stage": 3
+            },
+        "Battle": 
+            {
+                "MaxHP": 100,
+                "CurrentHP": 100,
+                "Power": 50,
+                "NumBattles": 0,
+                "NumWins": 0
+            },
+        "Caring":
+            {
+                "Hunger": 0,
+                "Tiredness": 0,
+                "Sleepiness": 0,
+                "Toilet": 0,
+                "NumCareMistakes": 0
+            },
+        "History":
+            {
+                "PreviousDigimon": [2],
+                "NextDigimon": [4]
+            },
+        "DigiConditions":
+            {
+                "BestDigimonId": 2,
+                "HP": 100,
+                "Power": 50,
+                "NumCareMistakes": 3,
+                "BeatenStageId": 5,
+                "NumWins": 10,
+                "NumBattles": 20,
+                "NumMinConditionsNeeded": 5
+            }
+    }
+]
